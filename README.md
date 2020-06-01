@@ -4,7 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Open a new terminal in VS Code and run 'npm run server' to open up the server.
+In another terminal window 'npm start' to run the application and navigate to 'http://localhost:4200/'.
 
 ## Code scaffolding
 
